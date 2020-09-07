@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm still 17 
 
-![Tejasw's github stats](https://github-readme-stats.vercel.app/api?username=TejaswGupta&count_private=true&show_icons=true)
+![Tejasw's github stats](https://github-readme-stats.vercel.app/api?username=TejaswGupta&count_private=true&show_icons=true?theme=radical)
