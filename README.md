@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tejasw</h1>
-<h3 align="center">*.* Developer</h3>
+<h3 align="center">Android/iOS/ML Developer and Ethical Hacker</h3>
 
 - 🔭 I’m currently working on **A lot of apps**
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
-- 👯 I’m looking to collaborate on **Flutter/Kotlin/ML/Swift/Python**
+- 👯 I’m looking to collaborate on **Python/Dart**
 
 - 🤝 I’m looking for help with **DevOps/Typescript**
 
