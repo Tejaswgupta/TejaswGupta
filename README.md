@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **guptatejasw2002@gmail.com**
 
-- ⚡ Fun fact **I don't sacrifice sleep for projects :')**
+- ⚡ Fun fact **99.3% of my repos are private**
 
 - ⚙️ Languages/frameworks i've worked on so far:
 
@@ -22,4 +22,4 @@
 
 
 
-![Tejasw's github stats](https://github-readme-stats.vercel.app/api?username=TejaswGupta&count_private=true&show_icons=true&theme=radical)
+![Tejasw's github stats](https://github-readme-stats.vercel.app/api?username=TejaswGupta&count_private=true&show_icons=true&theme=radical&hide=stars)
