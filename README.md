@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tejasw</h1>
-<h3 align="center">Android/iOS/ML Developer and Ethical Hacker</h3>
+<h1 align="left">Hi 👋, I'm Tejasw</h1>
+<h3 align="left">Android/iOS/ML Developer and Ethical Hacker</h3>
 
 - 🔭 I’m currently working on **A lot of apps**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **guptatejasw2002@gmail.com**
+- 📫 Reach me out **[here](guptatejasw2002@gmail.com)**
 
 - ⚡ Fun fact **99.3% of my repos are private**
 
