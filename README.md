@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **99.3% of my repos are private**
 
-- ⚙️ Languages/frameworks i've worked on so far:
+- ⚙️ Languages/frameworks:
 
 <p align="left"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
