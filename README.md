@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="3.0%" width="3.0%"><br>I am Tejasw Gupta</h1>
+<h1 align="left">Hey there! <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="3.0%" width="3.0%"><br>I am Tejasw Gupta</h1>
 
 
 <h3 align="left">Android/iOS/ML Developer and Ethical Hacker</h3>
