@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 Reach me out **[here](guptatejasw2002@gmail.com)**
+- 📫 Reach me out **[here](mailto:guptatejasw2002@gmail.com)**
 
 - ⚡ Fun fact **99.3% of my repos are private**
 
