@@ -19,4 +19,4 @@
 - ⚙️ Languages/frameworks:
 
 
-![Tejasw's github stats](https://github-readme-stats.vercel.app/api?username=TejaswGupta&count_private=true&show_icons=true&theme=radical&hide=stars)
+![Tejasw's github stats](https://github-readme-stats.vercel.app/api?username=TejaswGupta&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide=stars)
