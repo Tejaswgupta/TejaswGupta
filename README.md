@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **A Mindfullness App**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Python/Flutter**
+- 👯 I’m looking to collaborate on **ML/Flutter/React**
 
-- 🤝 I’m looking for help with **DevOps/Typescript**
+- 🤝 I’m looking for help with **DevOps**
 
 - 💬 Ask me about **Anything**
 
