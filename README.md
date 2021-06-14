@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **A Mindfullness App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👯 I’m looking to collaborate on **ML/Flutter/React**
 
