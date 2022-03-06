@@ -2,7 +2,7 @@
 
 <h2 align="center">Android/iOS/ML Developer and Ethical Hacker</h2>
 
-- 🔭 I’m currently working on **A Mindfullness App**
+- 🔭 I’m currently working on **Decentralized Web**
 
 - 🌱 I’m currently learning **GraphQL**
 
