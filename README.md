@@ -19,5 +19,3 @@
 
 ![Tejasw's github stats](https://github-readme-stats.vercel.app/api?username=TejaswGupta&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide=stars) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
