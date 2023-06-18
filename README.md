@@ -2,13 +2,11 @@
 
 <h2 align="center">Android/iOS/Web/ML Engineer </h2>
 
-- 🔭 I’m currently working on **Decentralized Web**
+- 🔭 I’m currently working on **[Lamarr](https://lamarr.tech)**
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Generative AI(LLMs)**
 
-- 👯 I’m looking to collaborate on **ML/Flutter/React**
-
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOps/MLOps**
 
 - 💬 Ask me about **Anything**
 
